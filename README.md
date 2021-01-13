@@ -1,2 +1,2 @@
 # rhcsa
-My attempt at vagrant to automate a rhcsa lab setup
+My attempt at using vagrant and virtualbox to automate a rhcsa lab setup
